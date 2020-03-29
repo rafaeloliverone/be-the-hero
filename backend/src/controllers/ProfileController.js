@@ -8,7 +8,6 @@ module.exports = {
             .select()
             .where('ong_id', pk_ong);
 
-        console.log(incidents);
         return response.json( {incidents} );
     },
 
