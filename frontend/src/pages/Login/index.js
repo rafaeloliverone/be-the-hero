@@ -4,7 +4,6 @@ import { FiLogIn } from 'react-icons/fi';
 
 import api from '../../services/api';
 
-
 import './styles.css';
 import heroesImg from '../../assets/heroes.png';
 import logoImg from '../../assets/logo.svg';
