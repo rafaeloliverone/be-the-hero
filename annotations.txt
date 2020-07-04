@@ -1,6 +1,0 @@
-BACK-END
-    
-    npm install
-    npm run start
-
-front 
