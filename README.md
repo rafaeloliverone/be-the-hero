@@ -9,7 +9,7 @@ A aplicação consiste em um ambiente onde pessoas dispostas a ajudar podem esco
 </h1>
 
 ## Execução 💻
- - Entrar na pasta backend e frontend, em seguida, rodar os seguintes comandos: 
+ - Rodar os seguintes comandos, em ambas as pastas: backend e frontend. 
  	- npm install
 	- npm start
 	
